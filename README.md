@@ -1,6 +1,8 @@
 # 💫 About Me:
-Machine Learning, Deep Learning, Generative AI, Large Language Models, Natural Language Processing
-
+⦁	Senior Data Scientist with 15+ years of experience designing, deploying, and scaling machine learning and AI solutions across retail and CPG domains.
+⦁	Proven expertise in predictive modelling, demand forecasting, time-series modeling, deep learning, GenAI, and cloud-native ML platforms (GCP, BigQuery ML, Vertex AI).
+⦁	Strong record of translating ambiguous business problems into production-ready, interpretable, and highimpact analytics solutions.
+⦁	Experienced mentor, academic contributor, and cross-functional leader working closely with product, engineering, and business stakeholders.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pardeeptiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeep.tiwari@live.com) 
