@@ -1,5 +1,5 @@
 # 💫 About Me:
-⦁	Senior Data Scientist with 15+ years of experience designing, deploying, and scaling machine learning and AI solutions across retail and CPG domains.
+⦁	Senior Data Scientist with 15+ years of experience designing, deploying, and scaling machine learning and AI solutions across retail and CPG domains.\n
 ⦁	Proven expertise in predictive modelling, demand forecasting, time-series modeling, deep learning, GenAI, and cloud-native ML platforms (GCP, BigQuery ML, Vertex AI).
 ⦁	Strong record of translating ambiguous business problems into production-ready, interpretable, and highimpact analytics solutions.
 ⦁	Experienced mentor, academic contributor, and cross-functional leader working closely with product, engineering, and business stakeholders.
